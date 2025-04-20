@@ -543,7 +543,7 @@ main {
  * #testimonials 
  */
 
-.testimonials { margin-bottom: 30px; }
+/* .testimonials { margin-bottom: 30px; }
 
 .testimonials-title { margin-bottom: 20px; }
 
@@ -588,7 +588,7 @@ main {
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
-}
+} */
 
 
 /**
@@ -707,9 +707,9 @@ main {
 
 /**
  * #clients 
- */
+ **/
 
-.clients { margin-bottom: 15px; }
+/* .clients { margin-bottom: 15px; }
 
 .clients-list {
   display: flex;
@@ -737,7 +737,7 @@ main {
   transition: var(--transition-1);
 }
 
-.clients-item img:hover { filter: grayscale(0); }
+.clients-item img:hover { filter: grayscale(0); } */
 
 
 
@@ -798,7 +798,8 @@ main {
   content: "";
   position: absolute;
   top: 5px;
-  left: -33px;
+  left: -3
+3px;
   height: 6px;
   width: 6px;
   background: var(--text-gradient-yellow);
@@ -810,8 +811,7 @@ main {
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
-}
-
+} 
 
 /**
  * skills 
@@ -858,7 +858,7 @@ main {
   #PORTFOLIO
 \*-----------------------------------*/
 
-.filter-list { display: none; }
+/* .filter-list { display: none; } */
 
 .filter-select-box {
   position: relative;
